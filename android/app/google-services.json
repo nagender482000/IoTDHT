@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "318744415702",
+    "firebase_url": "https://iotswitch-6c112-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "iotswitch-6c112",
+    "storage_bucket": "iotswitch-6c112.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318744415702:android:7914163eca36cfd4cea877",
+        "android_client_info": {
+          "package_name": "com.example.iot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318744415702-bpp09ld1verbte8pb1qmsqdlslttu2al.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD86K1-K3sjP2PoS73WZ6inMZUmWMSewqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318744415702-bpp09ld1verbte8pb1qmsqdlslttu2al.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
